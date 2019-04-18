@@ -1,5 +1,5 @@
 # ICE #4: Sensors, Displays, and MQTT
-I am using the following topics for the server:
+I am using the following topics for the MQTT server:
 1. Treasure/Goku
 2. Treasure/switch
 3. Treasure/tempHum
