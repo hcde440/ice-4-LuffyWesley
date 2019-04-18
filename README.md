@@ -1,4 +1,8 @@
 # ICE #4: Sensors, Displays, and MQTT
+I am using the following topics for the server:
+1. Treasure/Goku
+2. Treasure/switch
+3. Treasure/tempHum
 
 ## Download Library
 1. PubSubClient by Nick O'Leary
